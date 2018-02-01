@@ -12,7 +12,7 @@
 ``` npm login ``` //follow all the prompts 
 
 ### Versioning your module
-``` npm version // Please see https://docs.npmjs.com/cli/version for you specific situation ```
+``` npm version ``` // Please see https://docs.npmjs.com/cli/version for you specific situation
 
 ### Publish your module
 ``` npm publish ``
