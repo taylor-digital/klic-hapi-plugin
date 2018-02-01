@@ -1,5 +1,5 @@
 {
-  "name": "klic-hapi-plugin-example",
+  "name": "@taylordigital/klic-hapi-plugin-example",
   "version": "0.0.1",
   "description": "Hapi plugin example",
   "main": "index.js",
