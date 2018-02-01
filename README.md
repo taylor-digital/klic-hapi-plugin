@@ -15,5 +15,5 @@
 ``` npm version ``` // Please see https://docs.npmjs.com/cli/version for you specific situation
 
 ### Publish your module
-``` npm publish ``
+``` npm publish ```
 
